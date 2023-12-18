@@ -1,0 +1,10 @@
+diff --git a/node_modules/vanilla-hzty/bin/index.js b/node_modules/vanilla-hzty/bin/index.js
+index 887a06e..0783e9b 100644
+--- a/node_modules/vanilla-hzty/bin/index.js
++++ b/node_modules/vanilla-hzty/bin/index.js
+@@ -1,4 +1,4 @@
+-console.log('Vanilla-2023-12-15');
++console.log('Vanilla-2023-12-16');
+ module.exports.sum = function(a,b){
+     console.log(a,b);
+     return Number(a) + Number(b);
