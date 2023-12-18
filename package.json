@@ -1,5 +1,5 @@
 {
-  "name": "vanilla",
+  "name": "vanilla-hzty",
   "version": "1.0.0",
   "description": "一个 joke，测试依赖打补丁",
   "main": "./bin/index.js",
